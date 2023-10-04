@@ -84,7 +84,7 @@ export default async function handler(req: any, res: any) {
               },
               timestamp: new Date().toISOString(),
               "footer": {
-                  "text": "Pams",
+                  "text": "Willow",
                   "icon_url": "",
               }
             }
